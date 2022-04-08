@@ -4,5 +4,4 @@ Use this projects to create Daos
 
 ## Notes:
 
-- are on your gdocuments
-    
+- My notes are in  gdocuments
